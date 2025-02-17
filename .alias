@@ -1,0 +1,4 @@
+alias pa='php artisan'
+alias paserve='pa serve'
+alias pafresh='pa migrate:fresh --seed'
+alias ll='ls -l'
